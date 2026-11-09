@@ -1,0 +1,47 @@
+
+> dev
+> vite --host 127.0.0.1 --port 5197
+
+
+  VITE v7.3.7  ready in 561 ms
+
+  ➜  Local:   http://127.0.0.1:5197/
+  ➜  press h + enter to show help
+09:29:56 [vite] (client) page reload src/newCars.ts
+09:29:56 [vite] (client) page reload src/newCars.ts
+09:30:30 [vite] (client) page reload src/newCars.ts
+09:31:59 [vite] (client) page reload src/newCars.ts
+09:33:04 [vite] (client) page reload src/newCars.ts
+09:34:20 [vite] (client) page reload apps-script/Index.html
+09:34:20 [vite] (client) page reload apps-script/Index.html
+09:40:34 [vite] (client) page reload src/newCars.ts
+09:41:36 [vite] (client) page reload apps-script/Index.html
+09:41:36 [vite] (client) page reload apps-script/Index.html
+09:44:47 [vite] (client) page reload src/newCars.ts
+09:45:20 [vite] (client) page reload src/newCars.ts
+09:46:39 [vite] (client) page reload src/newCars.ts
+09:47:10 [vite] (client) page reload src/newCars.ts
+09:47:29 [vite] (client) page reload src/newCars.ts
+09:48:36 [vite] (client) page reload src/newCars.ts
+13:12:56 [vite] (client) page reload apps-script/Index.html
+13:12:56 [vite] (client) page reload apps-script/Index.html
+13:15:09 [vite] (client) page reload src/newCars.ts
+13:16:13 [vite] (client) page reload src/newCars.ts
+13:18:56 [vite] (client) page reload apps-script/Index.html
+13:18:56 [vite] (client) page reload apps-script/Index.html
+14:36:47 [vite] (client) page reload src/newCars.ts
+14:37:08 [vite] (client) page reload src/newCars.ts
+14:38:45 [vite] (client) page reload src/newCars.ts
+14:39:55 [vite] (client) page reload src/newCars.ts
+14:41:02 [vite] (client) page reload src/newCars.ts
+14:42:09 [vite] (client) page reload src/newCars.ts
+14:42:56 [vite] (client) page reload src/newCars.ts
+14:44:11 [vite] (client) page reload src/newCars.ts
+14:45:09 [vite] (client) page reload src/newCars.ts
+14:45:36 [vite] (client) page reload src/main.ts
+14:47:33 [vite] (client) page reload apps-script/Index.html
+14:47:33 [vite] (client) page reload apps-script/Index.html
+14:49:03 [vite] (client) page reload src/newCars.ts
+14:49:30 [vite] (client) page reload src/newCars.ts
+14:50:51 [vite] (client) page reload apps-script/Index.html
+14:50:51 [vite] (client) page reload apps-script/Index.html

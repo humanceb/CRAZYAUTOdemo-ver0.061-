@@ -1,0 +1,12 @@
+newmtl autumn_amber
+Kd 0.76 0.39 0.10
+Ka 0.18 0.10 0.04
+Ks 0.02 0.02 0.02
+Ns 8
+illum 2
+newmtl pale_vein
+Kd 0.94 0.73 0.34
+Ka 0.25 0.20 0.08
+Ks 0.01 0.01 0.01
+Ns 4
+illum 2

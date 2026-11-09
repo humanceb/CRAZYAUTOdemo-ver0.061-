@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180">
+<defs><linearGradient id="a" x2="0" y2="1"><stop stop-color="#52665e"/><stop offset="1" stop-color="#132621"/></linearGradient></defs>
+<path d="M17 20h266l12 27v104l-15 14H20L5 151V47Z" fill="url(#a)" stroke="#b6bd9f" stroke-width="3"/>
+<path d="M27 43h246v93H27Z" fill="#0d1b19" stroke="#516758"/>
+<circle cx="97" cy="90" r="57" fill="#192620" stroke="#c59456" stroke-width="4"/>
+<circle cx="97" cy="90" r="45" fill="none" stroke="#f0c27d" stroke-width="2" stroke-dasharray="4 7"/>
+<path class="needle" d="M95 94 143 51 100 97Z" fill="#f9b45f" style="transform-origin:97px 90px"/>
+<circle cx="97" cy="90" r="7" fill="#e9dbb4"/>
+<text x="97" y="115" fill="#e9e8d8" text-anchor="middle" font-size="11" font-family="sans-serif" font-weight="bold">KM/H</text>
+<path d="M180 60h73M180 80h73M180 100h73M180 120h73" stroke="#355346" stroke-width="8"/>
+<path d="M180 60h55M180 80h38M180 100h62M180 120h47" stroke="#e1ad6b" stroke-width="5"/>
+<text x="181" y="49" fill="#e9dbb4" font-size="10" font-family="sans-serif" font-weight="bold">TRAIL / 4WD</text>
+<path d="M25 153h250" stroke="#d18a4b" stroke-width="5"/>
+</svg>
